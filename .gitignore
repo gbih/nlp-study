@@ -1,0 +1,19 @@
+# FILES
+.DS_Store
+
+data*
+tls.cert
+tls.key
+*.cert
+*.key
+.ipynb_checkpoints
+
+/articles
+/bert
+/chollet
+/chollet_original
+/examples
+/geron
+/geron_original
+/hannes
+

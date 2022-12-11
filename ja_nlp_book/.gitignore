@@ -1,0 +1,18 @@
+# FILES
+.DS_Store
+
+data*
+tls.cert
+tls.key
+*.cert
+*.key
+.ipynb_checkpoints
+
+/chp02
+/chp04_01
+/chp04_02
+/chp04_03
+/chp04_shared
+/chp05_01
+/chp05_02
+/chp05_03
