@@ -1,6 +1,6 @@
 # Source material
 
-* Annotated and modified source code from the book [Building Transformer Models](https://machinelearningmastery.com/transformer-models-with-attention/) and corresponding source code, authored by Jason Brownlee.
+* Annotated and modified source code from the book [Building Transformer Models with Attention](https://machinelearningmastery.com/transformer-models-with-attention/) and corresponding source code, authored by Jason Brownlee.
 
 * I have modified this source code for learning purposes, mainly for more explicitness and/or exploring further variations on a given topic.
 
