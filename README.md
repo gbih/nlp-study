@@ -9,3 +9,6 @@ Materials:
 
 * [NLP in Action, 1](https://github.com/gbih/nlp/tree/main/nlp_in_action)
 	- Great intro to pre-Transformer NLP.
+
+* [Blueprints for Text Analysis](https://github.com/gbih/nlp/tree/main/blueprints_for_text_analysis)
+	- Nice collection of best practice solutions in NLP.
