@@ -1,0 +1,10 @@
+# FILES
+.DS_Store
+
+data*
+tls.cert
+tls.key
+*.cert
+*.key
+.ipynb_checkpoints
+
