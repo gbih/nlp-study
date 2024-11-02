@@ -7,6 +7,12 @@ tls.key
 *.cert
 *.key
 .ipynb_checkpoints
+*.csv
+*.ftz
+*.pkl
+*.db
+*.txt
+imports.py
 
 /figures
 /articles
