@@ -1,0 +1,8 @@
+bs4
+feedparser
+isort
+readability-lxml
+scrapy
+tqdm
+watermark
+xmltodict
