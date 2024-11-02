@@ -1,6 +1,6 @@
 # FILES
 .DS_Store
-
+*.gz
 data*
 tls.cert
 tls.key
@@ -8,6 +8,7 @@ tls.key
 *.key
 .ipynb_checkpoints
 
+/figures
 /articles
 /bert
 /chollet
