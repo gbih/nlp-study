@@ -5,6 +5,13 @@ data*
 tls.cert
 tls.key
 *.cert
+*.bin
+*.tsv
+*.db
+*.pickle
+/outputs
+
+
 *.key
 .ipynb_checkpoints
 *.csv
