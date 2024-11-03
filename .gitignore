@@ -3,6 +3,7 @@
 *.gz
 data*
 tls.cert
+outputs/
 tls.key
 *.cert
 *.bin
